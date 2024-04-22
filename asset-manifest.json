@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SpendEasy/static/css/main.a082ea3e.css",
+    "main.js": "/SpendEasy/static/js/main.4bfc9be1.js",
+    "static/js/453.756429c5.chunk.js": "/SpendEasy/static/js/453.756429c5.chunk.js",
+    "index.html": "/SpendEasy/index.html",
+    "main.a082ea3e.css.map": "/SpendEasy/static/css/main.a082ea3e.css.map",
+    "main.4bfc9be1.js.map": "/SpendEasy/static/js/main.4bfc9be1.js.map",
+    "453.756429c5.chunk.js.map": "/SpendEasy/static/js/453.756429c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a082ea3e.css",
+    "static/js/main.4bfc9be1.js"
+  ]
+}
